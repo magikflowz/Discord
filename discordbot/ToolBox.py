@@ -181,4 +181,4 @@ async def yum(ctx):
 
 
        
-client.run("Nzc1NDg1OTAzNjEwMzE0ODM0.X6nBhw.QP7wu4FvXXq9ddoZDcwkuvwMxSM")
+client.run("") #add your token here
